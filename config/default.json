@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://mean123:mean123@mernstack.76ge4jp.mongodb.net/?retryWrites=true",
+    "secret":"SZ123"
+
+
+}
